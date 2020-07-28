@@ -1,1 +1,1 @@
-This file introducts the structure of src code.
+This file shows the structure of src code.
